@@ -1,5 +1,5 @@
 ![Mishcon de Reya](https://github.com/mdrresearch/mdr-research/blob/main/images/mishcon_logo.png "Mishcon de Reya")
-![MDR Research](https://github.com/mdrresearch/mdr-research/blob/main/images/MDR_research_logo.jpeg "MDR Research")
+![MDR Research](https://github.com/mdrresearch/mdr-research/blob/main/images/MDR_research_logo.png "MDR Research")
 
 # MDR Research
 
