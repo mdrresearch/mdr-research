@@ -1,5 +1,15 @@
-![Mishcon de Reya](https://github.com/mdrresearch/mdr-research/blob/main/images/mishcon_logo.png "Mishcon de Reya")
-![MDR Research](https://github.com/mdrresearch/mdr-research/blob/main/images/MDR_Research_logo.png "MDR Research")
+<img src="https://github.com/mdrresearch/mdr-research/blob/main/images/mishcon_logo.png" align="left" width="446" height="131">
+<br>
+<img src="https://github.com/mdrresearch/mdr-research/blob/main/images/MDR_Research_logo.png" align="left" width="495" height="128">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # MDR Research
 
