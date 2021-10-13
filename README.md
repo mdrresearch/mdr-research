@@ -24,7 +24,7 @@
 - N.A. Arnold, B. Steer, I. Hafnaoui, G.H. Parada, R.J. Mondragon, F. Cuadrado, R.G. Clegg, [Moving with the Times: Investigating the Alt-Right Network Gab with Temporal Interaction Graphs](https://github.com/mdrresearch/mdr-research/blob/main/Moving_with_the_Times), CSCW, Forthcoming
 
 
-- M. Bartolo, D. Hoadley, W. Hernandez, B. Kultys, A. P. Moore, E. Nemsic, N. Roche, J. Shangguan, K. Tylinski, P. Stenetorp, [RAIN: Towards Application-driven Benchmarking for Natural Language Processing](https://github.com/mdrresearch/mdr-research/blob/main/RAIN_Benchmark), 2021 Forthcoming
+- M. Bartolo, J. Shangguan, K. Tylinski, W. Hernandez, E. Nemsic, B. Kultys, D. Hoadley, N. Roche,  A. P. Moore, P. Stenetorp, [RAIN: Towards Application-driven Benchmarking for Natural Language Processing](https://github.com/mdrresearch/mdr-research/blob/main/RAIN_Benchmark), 2021 Forthcoming
 
 
 - Y. Lu, M. Bartolo, A. P. Moore, S. Riedel and P. Stenetorp, [Fantastically ordered prompts and where to find them: Overcoming few-shot prompt order sensitivity](https://github.com/mdrresearch/mdr-research/blob/main/Fantastically_ordered_prompts), 2021 Forthcoming
