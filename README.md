@@ -1,9 +1,6 @@
-<img src="https://github.com/mdrresearch/mdr-research/blob/main/images/mishcon_logo.png" align="left" width="446" height="131">
-<br>
 <img src="https://github.com/mdrresearch/mdr-research/blob/main/images/MDR_Research_logo.png" align="left" width="495" height="128">
 <br>
-<br>
-<br>
+<img src="https://github.com/mdrresearch/mdr-research/blob/main/images/mishcon_logo.png" align="left" width="223" height="66">
 <br>
 <br>
 <br>
