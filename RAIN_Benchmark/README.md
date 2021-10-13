@@ -1,6 +1,6 @@
 # RAIN: Towards Application-driven Benchmarking for Natural Language Processing
 
-## M. Bartolo, J. Shangguan, K. Tylinski, W. Hernandez, E. Nemsic, B. Kultys, D. Hoadley, N. Roche,  A. P. Moore, P. Stenetorp
+## M. Bartolo, J. Shangguan, K. Tylinski, W. Hernandez, E. Nemsic, B. Kultys, D. Hoadley, N. Roche,  A. P. Moore, G. Hinch, P. Stenetorp
 
 ### Abstract
 
