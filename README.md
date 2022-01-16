@@ -40,6 +40,9 @@
 - N. Roche & A. P. Moore, [Oraclised Data Schemas: Improving contractual certainty in uncertain times](https://github.com/mdrresearch/mdr-research/blob/main/Oraclised_Data_Schemas) UCL CBT Working paper series 2020
 
 
+- Niall Roche, Walter Hernandez, Eason Chen, Jérôme Siméon, Dan Selman, [Ergo - a programming language for Smart Legal Contracts](https://github.com/mdrresearch/mdr-research/blob/main/Ergo_a_programming_language_for_Smart_Legal_Contracts/) Conference: ProLaLa 2022 - Programming Languages and the Law 2022
+
+
 - A. Birchall, T. Grogan, N. Kirby, N. Johnson, A. P. Moore, N. Roche and N. Vadgama [Towards a distributed ledger of residential title deeds in the UK: An HMLR case study](https://github.com/mdrresearch/mdr-research/blob/main/Towards_a_distributed_ledger) White paper 2020
 
 
